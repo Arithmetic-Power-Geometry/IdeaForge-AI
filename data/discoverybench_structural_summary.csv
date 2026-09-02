@@ -1,0 +1,6 @@
+domain,field_id,records,unique_ids,duplicates,status
+Physics and Astronomy,31,300,300,0,Pass
+Chemistry,16,300,300,0,Pass
+Medicine,27,300,300,0,Pass
+Computer Science,17,300,300,0,Pass
+Mathematics,26,300,300,0,Pass

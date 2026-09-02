@@ -1,0 +1,2 @@
+Reproduced 6 test questions; frontier=5; coordinate_classes=6; sensitivity_runs=196
+Energy q3: {'dc': 0.75, 'qc': 0.8, 'region': 'IV', 'frontier': True, 'utility': 0.42500000000000004, 'venture_readiness': 79.0}

@@ -1,0 +1,7 @@
+metric,value,source_note
+AI-generated questions,1000,Reported in DPT worked guide
+Seed problems,100,Reported in DPT worked guide
+Scientific fields,20,Reported in DPT worked guide
+Questions per seed,10,Reported in DPT worked guide
+Prospective Region IV questions,541,Reported under benchmark primary convention
+Nondominated frontier candidates,6,Reported under benchmark primary convention

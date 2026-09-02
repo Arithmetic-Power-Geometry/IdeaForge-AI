@@ -1,0 +1,5 @@
+test_id,question,dc,qc,delta_l,purpose,status
+T1-default,Can replacing conventional classroom lighting with LED lighting reduce university electricity consumption?,0.500,0.500,20,UI default-value test,Not a substantive DPT assessment
+q6-default,"Can occupancy, timetable, weather, solar-generation, and building-load data be combined to predict and automatically minimize campus electricity demand?",0.500,0.500,20,UI default-value test,Not a substantive DPT assessment
+EDU1-default,"Can an AI system combine student attendance, assessment performance, learning-platform activity, and engagement patterns to identify university students at risk of dropping out early enough for effective intervention?",0.500,0.500,20,UI default-value test before guided values,Not a substantive DPT assessment
+EDU1-guided,"Can an AI system combine student attendance, assessment performance, learning-platform activity, and engagement patterns to identify university students at risk of dropping out early enough for effective intervention?",0.583,0.650,26,Illustrative guided manual test,Included as development demonstration only

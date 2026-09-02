@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ideaforge-dpt"
+version = "1.0.0"
+description = "Dual-mode auditable Discovery Plane decision support for research-question and early startup-opportunity screening"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [{name = "Mohammad Amir Khusru Akhtar"}]
+dependencies = [
+  "pandas>=2.1",
+  "numpy>=1.26",
+  "matplotlib>=3.8",
+  "streamlit>=1.41",
+  "reportlab>=4.0",
+  "openai>=1.40"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
