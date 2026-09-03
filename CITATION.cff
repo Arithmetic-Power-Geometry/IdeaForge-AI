@@ -2,10 +2,28 @@ cff-version: 1.2.0
 title: "IdeaForge AI"
 message: "If you use the software, please cite the software and the Discovery Plane Theory source."
 type: software
+
 authors:
   - family-names: "Akhtar"
     given-names: "Mohammad Amir Khusru"
+
 year: 2026
 version: "1.0.0"
 license: "Apache-2.0"
+
 repository-code: "https://github.com/Arithmetic-Power-Geometry/IdeaForge-AI"
+
+doi: "10.5281/zenodo.22252447"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Akhtar"
+      given-names: "Mohammad Amir Khusru"
+  title: "IdeaForge AI: A Dual-Mode, Auditable Research-Question Laboratory for Converting Scientific Ideas into Startup Opportunities"
+  year: 2026
+  publisher:
+    name: "Zenodo"
+  version: "V1"
+  doi: "10.5281/zenodo.22252447"
+  url: "https://doi.org/10.5281/zenodo.22252447"
